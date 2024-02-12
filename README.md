@@ -13,5 +13,5 @@ Hello !
 
 
 >>L'interet de cet exercice était tout d'abord de m'entrainer sur l'utilisation de L'Ajax pour pouvoir ensuite
->>l'inclure dans une applciation web où l'utilisateur pourra choisir son pattern et personnaliser les couleurs
+>>l'inclure dans une application web où l'utilisateur pourra choisir son pattern et personnaliser les couleurs
 >>de son interface  
